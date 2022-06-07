@@ -56,5 +56,5 @@ Image Classification with Jetson Nano coupled with Output from Arduino
    - Add better Arduino boards to include LED strip lights, LCD screens, and sound
 
 ## Google Demo Slides
-https://docs.google.com/presentation/d/1O_W9ddtD3KJIEUg6YtUYFHIBgqades3gN6sQesUPft8/edit#slide=id.g1268a7e57a3_0_249
+[![LINK TO SLIDES]([link to image on GH](https://github.com/coder-chick/recycle-ai/blob/main/EYE-RecAIcle%20Slides.png))](https://docs.google.com/presentation/d/1O_W9ddtD3KJIEUg6YtUYFHIBgqades3gN6sQesUPft8/edit#slide=id.g1268a7e57a3_0_249)
 
