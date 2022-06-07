@@ -57,6 +57,7 @@ Image Classification with Jetson Nano coupled with Output from Arduino
  
 ## Vision for Future Product
 https://user-images.githubusercontent.com/70995997/172470209-582572f7-1a16-4e21-8b8a-eb5fb72f3f3a.mp4
+- 3D Animation Video created by Semaa Amin
 
 ## Google Demo Slides
 [![LINK TO SLIDES](https://github.com/coder-chick/recycle-ai/blob/main/EYE-RecAIcle%20Slides.png)](https://docs.google.com/presentation/d/1O_W9ddtD3KJIEUg6YtUYFHIBgqades3gN6sQesUPft8/edit#slide=id.g1268a7e57a3_0_249)
